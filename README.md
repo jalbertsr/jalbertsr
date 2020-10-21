@@ -4,10 +4,9 @@
 ![](/header_.png)
 
 
-- 🔭 I’m currently working at [ManoMano](https://www.manomano.co.uk/) as a Fullstack Developer
-- 🌱 I’m currently learning Elixir and Machine Learning
-- 💬 Ask me about web development, functional programming and serverless
-- 😄 Pronouns: He / Him
+- 🔭 I’m currently working at [ManoMano](https://www.manomano.co.uk/) as a Fullstack Developer.
+- 🌱 I’m currently learning Elixir and Golang.
+- 💬 Ask me about web development, functional programming and serverless.
 - ⚡ Fun fact: As a kid, I thought computer viruses were old files that got rotten inside the computer because they were untouched/unopen for a long time 🤣
 
 
