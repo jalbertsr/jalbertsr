@@ -4,7 +4,7 @@
 ![](/header_.png)
 
 
-- 🔭 &nbsp; I’m currently working at [ManoMano](https://www.manomano.co.uk/) as a Fullstack Developer.
+- 🔭 &nbsp; I’m currently working at [Capchase](https://www.capchase.com/) as a Software Engineer.
 - 🌱 &nbsp; I’m currently learning Elixir and Golang.
 - 💬 &nbsp; Ask me about web development, functional programming and serverless.
 
