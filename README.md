@@ -4,7 +4,7 @@
 ![](/header_.png)
 
 
-- 📚 &nbsp; I’m currently learning Elixir and Golang.
+- 📚 &nbsp; I’m currently learning Elixir and Rust 🦀.
 - 🔭 &nbsp; I consider myself a FullStack Software Engineer, from frontend to backend and infrastructure. 
 - 💬 &nbsp; Ask me about web development, functional programming and serverless.
 
