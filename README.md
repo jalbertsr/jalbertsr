@@ -18,9 +18,5 @@
 #### 👨🏻‍💻 Languages and Tools <br />
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,graphql,c,go,py,bash,postgres,redis,docker,aws,gcp,kubernetes,cloudflare&perline=9)](https://skillicons.dev)
 
-#### 📊 Stats
-
-![Joan's github stats](https://github-readme-stats.vercel.app/api?username=jalbertsr&include_all_commits=true&hide=contribs)
-
 <br/>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=jalbertsr.jalbertsr" alt="visitor badge" /> </p>
